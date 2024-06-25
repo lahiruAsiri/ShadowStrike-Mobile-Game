@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Galactic Escape</string>
+    <string name="start" />
+    <string name="start1">Start</string>
+    <string name="title">title</string>
+    <string name="startship">startship</string>
+    <string name="restart">Restart</string>
+    <string name="exit">Exit</string>
+    <string name="your_points">Your Points:</string>
+    <string name="_50">50</string>
+    <string name="highest">Highest:</string>
+    <string name="_100">100</string>
+    <string name="shadow_strike">Shadow Strike</string>
+</resources>
